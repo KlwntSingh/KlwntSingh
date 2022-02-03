@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, Python and NodeJS.
 - 🌱 I’m currently working with core python to build and maintain test framework for Endpoing security software.
 - 💞️ I’m looking to collaborate on Open source projects like Linux Kernel.
-- 📫 How to reach on [linkedin](https://www.linkedin.com/in/klwntsingh) 
+- 📫 Reach me on [linkedin](https://www.linkedin.com/in/klwntsingh) 
 
 <!---
 KlwntSingh/KlwntSingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
